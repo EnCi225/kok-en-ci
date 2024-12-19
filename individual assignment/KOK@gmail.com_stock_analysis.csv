@@ -1,0 +1,11 @@
+Ticker, Start Date, End Date, Average Price, Percentage Change, Highest Price, Lowest Price
+AAPL, 2020-10-05, 2020-10-30, 116.97, -1.01%, 124.40, 111.20
+AAPL,2022-10-01,2022-10-30,"Ticker
+AAPL    144.6
+dtype: float64","Ticker
+AAPL    9.33
+dtype: float64%","Ticker
+AAPL    155.74
+dtype: float64","Ticker
+AAPL    138.34
+dtype: float64"
